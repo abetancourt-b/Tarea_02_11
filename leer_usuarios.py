@@ -1,3 +1,5 @@
+# Autor: Antonio Betancourt
+
 import json
 
 with open("usuarios.json", "r", encoding="utf-8") as archivo:
