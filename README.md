@@ -5,7 +5,7 @@
 Se puede ver que al ingresar el deporte, con sus respectivos caracteres, mayusculas y tildes, aparece el nombre completo de la persona o las personas a la cual corresponde el deporte escrito.
 
 <img width="259" height="88" alt="image" src="https://github.com/user-attachments/assets/f61a2b52-4cec-4021-8cc4-df708ebc4872" /> <img width="388" height="69" alt="image" src="https://github.com/user-attachments/assets/057ed2f7-b0b2-49cd-af1a-1baf4d986eab" /> 
-<img width="381" height="68" alt="image" src="https://github.com/user-attachments/assets/216c9d28-0607-4e80-ad51-ea848319499f" /> <img width="263" height="101" alt="image" src="https://github.com/user-attachments/assets/50b2607c-ea96-4ad5-b0ec-e20abdb5b6e1" />
+<img width="381" height="68" alt="image" src="https://github.com/user-attachments/assets/216c9d28-0607-4e80-ad51-ea848319499f" />  <img width="263" height="101" alt="image" src="https://github.com/user-attachments/assets/50b2607c-ea96-4ad5-b0ec-e20abdb5b6e1" />
 
 # Python - Punto 2
 
